@@ -1,14 +1,95 @@
 
-<style>
-	body { padding-top: 120px; 
+	.mycontent { padding-top: 1EM; 
+		padding-left:14EM;
+		padding-right: 14EM;
+}
+#topheading {
+	margin-top: 0EM;
+
 }
 #probono {
-	height: 3EM;
-	width: 2.5EM;
-	padding-top: 7px;
+	height: 8EM;
+	width: 5EM;
+	padding-top: 1.2EM;
+	font-style: bold;
 }
-#spaces {
-	padding-left:50px;
+
+#dropdown {
+	margin-top: 10EM;
+	margin-left: -9EM;
+	color: green;
+}
+#about {
 	
+	margin-left: -9EM;
+	margin-top: 13EM;
+	color: green;
+	font-family: 'Poiret One', cursive;
+	font-style: bold;
 }
-</style>
+#next {
+	margin-top: 17EM;
+	margin-left: -9EM;
+	color: green;
+	font-family: 'Poiret One', cursive;
+	font-style: bold;
+}
+
+
+#contactus {
+	margin-top: 21EM;
+	margin-left: -9EM;
+	color: green;
+	font-family: 'Poiret One', cursive;
+	font-style: bold;
+}
+
+#envelope {
+	height: 3EM;
+	padding-top: 2EM
+}
+#main_image {
+	height: 35EM;
+	width: 80EM;
+	
+	padding-left: 4EM;
+	padding-right: 4EM;
+	padding-bottom: 3EM;
+	margin-top: 1EM;
+}
+#lightbulbs {
+	height:11EM;
+	width: 60EM;
+	padding-left: 9EM;
+	padding-right: 9EM;
+	padding-top: 3EM
+}
+
+.nav-Brand {
+	margin-top: 10px;
+	margin-left: -30px;
+	margin-right: -40px;
+}
+.block {
+	border-top: black
+}
+
+h2 {
+	font-family: 'Poiret One', cursive; padding-top: 1.3EM; padding-bottom: 0.3EM; font-size: 1.6EM;
+}
+
+p {
+	font-family: 'Bentham', serif; line-height: 185%; text-align: justify; font-size: 1.3EM;
+}
+.mylist {font-family: 'Bentham', serif; line-height: 185%; font-size: 1.3EM;
+
+}
+h1 {
+	font-family: 'Poiret One', cursive; font-weight: 800; sans-serif; line-height: 185%; text-align: justify; font-size: 2.1EM;
+}
+h4 {
+	font-family: 'Megrim', cursive; font-weight: 800;line-height: 185%; text-align: center; font-size: 2.1EM; font-style: bold;
+}
+h3 {
+	font-family: 'Megrim', cursive;   line-height: 185%; text-align: center; font-size: 2.1EM; 
+}
